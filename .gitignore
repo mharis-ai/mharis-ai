@@ -2,43 +2,33 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
 # C extensions
 *.so
-
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
-
 # Virtual environments
 .env
 .venv
 env/
 venv/
 ENV/
-
 # VS Code settings
 .vscode/
-
 # OS system files
 .DS_Store
 Thumbs.db
-
 # Log files
 *.log
-
 # Pytest
 .pytest_cache/
-
 # Data files
 *.csv
 *.tsv
 *.xls
 *.xlsx
-
 # Model files
 *.h5
 *.pkl
 *.joblib
-
 # Temporary files
 *.tmp
